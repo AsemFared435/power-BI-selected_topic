@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis Dashboard
+<img width="898" height="507" alt="image" src="https://github.com/user-attachments/assets/e325740c-c77f-4083-8555-f495691e387c" /># 📊 Sales Performance Analysis Dashboard
 
 ## 📝 Project Overview
 This is a comprehensive data analysis project aimed at tracking sales performance and understanding market trends. Built using **Microsoft Power BI**, this project transforms raw data into an interactive dashboard that empowers stakeholders to derive actionable insights regarding revenue, top-selling products, and regional performance.
@@ -55,10 +55,22 @@ The project was executed through the following stages:
 
 ---
 
-## 📸 Screenshots
-*(Please insert screenshots of your dashboard here to showcase the visuals)*
+## 📸 Dashboard Screenshots
 
-> **Note:** You can download the attached `.pbix` file to interact with the full report.
+### Revenue Analysis
+![Revenue Analysis](https://github.com/AsemFared435/power-BI-selected_topic/blob/main/Dashboard_img/Revenue_analysis.png?raw=true)
+
+
+### RootCause Analysis
+![Revenue Analysis](https://github.com/AsemFared435/power-BI-selected_topic/blob/main/Dashboard_img/rootcause_analysis.png?raw=true)
+
+
+### Profit Analysis
+![Product & profit Analysis](https://github.com/AsemFared435/power-BI-selected_topic/blob/main/Dashboard_img/Profit_analysis.png?raw=true)
+
+
+### Customer Analysis
+![Customer Analysis](https://github.com/AsemFared435/power-BI-selected_topic/blob/main/Dashboard_img/customer_analysis.png?raw=true)
 
 ---
 
