@@ -1,4 +1,4 @@
-<img width="898" height="507" alt="image" src="https://github.com/user-attachments/assets/e325740c-c77f-4083-8555-f495691e387c" /># 📊 Sales Performance Analysis Dashboard
+# 📊 Sales Performance Analysis Dashboard
 
 ## 📝 Project Overview
 This is a comprehensive data analysis project aimed at tracking sales performance and understanding market trends. Built using **Microsoft Power BI**, this project transforms raw data into an interactive dashboard that empowers stakeholders to derive actionable insights regarding revenue, top-selling products, and regional performance.
